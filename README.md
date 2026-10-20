@@ -29,7 +29,23 @@ Gracias por probar Rock Bottom! Cada salto cuenta.
 ![g7QLbl](https://github.com/user-attachments/assets/aba239f6-91b3-4833-88ba-9f3a421a39e2)
 
 </header>
-   
-<footer>
-   
-</footer>
+
+## Requisitos
+
+* Unity **6000.0.42f1**
+* Render Pipeline: Universal Render Pipeline (URP)
+* Paquetes: Cinemachine, ProBuilder
+* Assets de terceros incluidos (no redistribuibles): Blink, GabrielAguiarProductions, Infima Games, InfinityPBR - Magic Pig Games, VFXPACK_FIRE_WALLCOEUR
+
+## Contenido
+
+* **Shader Graph:** `New Shader Graph`, `Rock`, `Rock 1`, `TriplanarRock`
+* **Scripts:** `BestTimeMenuUI`, `Checkpoint`, `CinemachineSetter`, `CustomGravityTarget`, `DiffSelector`, `EndTrigger`, `FaceZoneTrigger`, `FireFlicker`, `FogByHeight`, `GameLanguageSelector` y 21 más
+* **Prefabs:** `Final2`
+* **Escenas:** `Assets/3-Scenes/Art.unity`, `Assets/3-Scenes/Game Jaime.unity`, `Assets/3-Scenes/Game(Failsafe) 1.unity`, `Assets/3-Scenes/Game(Failsafe).unity`, `Assets/3-Scenes/Game.unity`, `Assets/3-Scenes/IsarScene.unity`
+
+## Uso
+
+1. Clona el repositorio y añádelo en Unity Hub (*Add project from disk*).
+2. Ábrelo con Unity **6000.0.42f1**.
+3. Abre la escena `Assets/3-Scenes/Art.unity` y pulsa **Play**.
